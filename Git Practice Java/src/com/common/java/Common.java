@@ -7,7 +7,14 @@ public class Common {
 
 	}
 	
+
 	public void liorFunction(){
+
+
+	}
+	public void yossiFunction() {
+		
+
 		
 	}
 	
