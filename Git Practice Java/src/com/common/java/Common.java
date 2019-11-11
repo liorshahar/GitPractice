@@ -7,4 +7,9 @@ public class Common {
 
 	}
 	
+	public void yossiFunction() {
+		
+		
+	}
+	
 }
