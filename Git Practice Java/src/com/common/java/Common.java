@@ -7,4 +7,8 @@ public class Common {
 
 	}
 	
+	public void liorFunction(){
+		
+	}
+	
 }
